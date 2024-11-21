@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 # Инициализация доступа к Google Sheets через API
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("composed-sensor-303107-3bb3f7d04258.json", scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name("srs-counter-bot-2ec9a679aadc.json", scope)
 client = gspread.authorize(creds)
 sheet = client.open("Test location SRS").sheet1
 
