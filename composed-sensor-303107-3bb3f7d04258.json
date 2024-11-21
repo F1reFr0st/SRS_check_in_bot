@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "composed-sensor-303107",
+  "private_key_id": "3bb3f7d04258cc84b89e08ca8a35088a7c5a869e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCyovEPqnXI39Ec\nbYaTjUL36HLtadt7g8yFUvYVrSi9zDBezGEC7BMSPewMbkMePdSTUhR4y2FRvj2x\noATkfq6lg2h/rHLfWtJ6nQfvGkSVoAHge7UdBli58qfE97aPqw4Ou/p+3zXLvAvC\nURoCkpK2E2XBX2RNFnareYhP7jzs1yDqqr+q9IUqrYmcDp+g7uhvpgXMwsX4dfh4\nrGcSnLvm01H4RmQpqP3G1S8S4yuEUsJrzjrfyvbEq+tEvymS+bTFe1xS+Gpra5Fp\nVee/gqjsJTvEj/CwBvhlUTxXv1Lxsmw0mZGz5kP5fyu6VE4912w8IzFG4rbE2Bb4\nTOFOhDhjAgMBAAECggEAEdnQhwU8se8TwWh8e0Axgf57hZf/c89O37/TkYT1Pkoq\nRz7bLuSSX09KyE84a8w38uTP4OZJ+lYtahOYiZDTOPzxs1hzPjigMdqBUXZphh4w\nMdOK3LSmpyZFd5xdZOvuArDsLkN1578J2cgq9jjZalJz56f1qPJmt2n0ojAnbG9E\nKkFXKIElQTVrm1OF8wag3drVDk0Teq0nZZw3ULmQ4Yh1XL4HHWLDD0riEr+CMDsG\ni7GGm1lkPO/NhesVFK0vCuJRTgnjZYOLNXbgjIM7Tl7OqRgdswXvqQuL5KsPd6ip\nmy0EOKKDqjvh0H0lCHSiEsOppWLRmj2cYBYwUPQM8QKBgQDj61oewREsz5tyQazU\nOR8BzQX9Y4ZKlOW6DuMJwmX4lcfs4CgWiOJkAqi/dqMOVYwPboKRsaoULtgpFCvy\ntd+Fy/o5F54PFGhXBmuSy9RC8B925gSZt4bQwXU6S7RTVzHWVW7E9lMrW5ZghQa5\naMcDbZsQ18hdMcp2fX1GDQ5fuwKBgQDIpTFhKfvTKZhzV3H3jkEICcuVITA3YdGZ\nbH+40z9+0798gFEgMHmnfBgOSnOZEaVTOuYD6a6aLYicFoR6OZ4pf9es5IbS+n0z\nE4U0pfqhfrIdh3XtMBnKaUtqrrKwYRL3hlScSFqtey0U/to04dIKT5P0dLa1yQcx\nKdVqRTzbeQKBgQDSBBs9vX+6/+5oARZlU+E7gpVjYKLs9Hke0frpEkVuI25e2kp2\nQVoC9+RQ0Nv9KFzwF0+fOsvS3zt11s2MT4SRQFzo4NdXY+GlVxgm40VLDQKhR+Cz\nWEaU8762oe2e4fjdXEm+mpAWosVVWR7SGDdR9Fxvz7YkEe5S8t1NgFhfYwKBgQCL\nfy5Bm2rVeMnhBx7ZOjHEYOsFl7lqB7wtqt1xpo0ypA0xhhThCFLMOt6OsPyFo1sJ\n7p0Ug1c9IgMkYhNg1sY7nAJa1ddWv4hkBmJKJEuIFAnJtfArI5IKxAIG/caGEjeZ\nl+8jaLqCemzxd+5FbesV+BWpk6uj30v8xlT2OYUCIQKBgQC0UADy2lItZzkFXNKF\nHWRJhOX5eGEWt67GdM8kqj0DUcQ02Bbdshuj9ruf/Yz509ODmf6qGaZ0W/tT3Xs9\n4nemXT+tni/VaU2CoUL/41QiJF/66Ey8N8LBnJXTvaSQ7ZEplwT4L0e0j5xGcTtX\nb+y3joLE5X5LJbvrqLBQejP8SQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "srs-bot-service-account@composed-sensor-303107.iam.gserviceaccount.com",
+  "client_id": "101579616457951391698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/srs-bot-service-account%40composed-sensor-303107.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
